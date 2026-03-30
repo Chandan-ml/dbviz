@@ -2,6 +2,7 @@
 
 Paste a PostgreSQL connection string. See your entire schema as an interactive diagram.
 
+https://github.com/Chandan-ml/dbviz/raw/main/docs/demo.mov
 
 
 ---
